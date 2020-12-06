@@ -1,0 +1,26 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 1
+    TT Decimal (7, 0) Index 1 ;
+begin_metadata
+"\SNAPTHIN" = ""
+"\SNAPTHIN\EnableSnap" = "FALSE"
+"\SNAPTHIN\Node" = "0"
+"\SNAPTHIN\Vec" = "0"
+"\SNAPTHIN\TolUnit" = "7"
+"\SNAPTHIN\EnableThin" = "FALSE"
+"\SNAPTHIN\Bend" = "0"
+"\SNAPTHIN\Dist" = "0"
+"\SNAPTHIN\ThinUnit" = "7"
+"\SNAPTHIN\EnableArea" = "TRUE"
+"\SNAPTHIN\Area" = "2"
+"\SNAPTHIN\AreaUnit" = "29"
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "6974195c-4822-43c2-9d2c-1efd68830b15"
+"\MapInfo\ParentTableID" = "ce4a6fc2-3351-4c2b-9b3a-da77bb75b3fb"
+end_metadata
